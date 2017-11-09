@@ -33,7 +33,7 @@
   </parent>
 
   <artifactId>bitbucket-branch-source-disable-status</artifactId>
-  <version>1.0</version>
+  <version>1.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
 
   <name>Bitbucket Branch Source Disable Status Plugin</name>
